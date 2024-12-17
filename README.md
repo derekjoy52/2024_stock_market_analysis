@@ -1,4 +1,4 @@
-# 2023_stock_market_analysis
+# 2023 stock market analysis
 
 Best Practices for a Reliable, Extensible, and Scalable Data Pipeline
 This project focuses on processing data for 100 stocks to analyze their 2023 price data from the Polygon API. The pipeline was designed with reliability, extensibility, and scalability in mind to answer the following questions:
