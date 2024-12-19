@@ -1,4 +1,4 @@
-# **Best Practices for a Reliable, Extensible, and Scalable Data Pipeline**
+# **Best Practices for a Reliable, Extensible, and Scaleable Data Pipeline**
 
 This project focuses on processing data for **100 stocks** to analyze their **2023 price data** from the **Polygon API**. The pipeline was designed with **reliability, extensibility, and scalability** in mind to answer the following questions:
 
