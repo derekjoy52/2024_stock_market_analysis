@@ -45,7 +45,7 @@ By incorporating these strategies, the pipeline ensures **robust error handling*
 
 
 
-##**Things to implement**:
+## **Things to implement**:
 Checkpointing,
 Integration testing,
 Unit testing
