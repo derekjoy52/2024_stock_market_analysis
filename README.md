@@ -41,3 +41,12 @@ To improve reliability, the pipeline includes:
 ---
 
 By incorporating these strategies, the pipeline ensures **robust error handling**, **scalability for large datasets**, and **extensibility** for future enhancements or changes.
+
+
+
+
+**Things to implement**:
+Checkpointing
+Integration testing
+Unit testing
+
