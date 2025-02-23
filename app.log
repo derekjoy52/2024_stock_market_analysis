@@ -220,3 +220,326 @@
 2024-12-04 23:31:28,326 - INFO - Sucessfully processed ticker: SO with 250 records.
 2024-12-04 23:31:28,326 - INFO - Sucessfully processed ticker: GILD with 250 records.
 2024-12-04 23:31:28,326 - INFO - Sucessfully processed ticker: CME with 250 records.
+2025-02-20 23:34:40,768 - INFO - Logging is configured.
+2025-02-20 23:36:35,830 - INFO - Logging is configured.
+2025-02-20 23:36:35,830 - INFO - Logging is now working in the raw_layer script.
+2025-02-20 23:36:40,048 - INFO - Sucessfully processed ticker: AAPL with 217 records.
+2025-02-20 23:36:40,049 - INFO - Sucessfully processed ticker: MSFT with 217 records.
+2025-02-20 23:36:40,050 - INFO - Sucessfully processed ticker: AMZN with 217 records.
+2025-02-20 23:36:40,051 - INFO - Sucessfully processed ticker: TSLA with 217 records.
+2025-02-20 23:36:40,053 - INFO - Sucessfully processed ticker: GOOGL with 217 records.
+2025-02-20 23:40:04,830 - INFO - Logging is configured.
+2025-02-20 23:40:04,830 - INFO - Logging is now working in the raw_layer script.
+2025-02-20 23:40:13,854 - INFO - Sucessfully processed ticker: AAPL with 217 records.
+2025-02-20 23:40:13,854 - INFO - Sucessfully processed ticker: MSFT with 217 records.
+2025-02-20 23:40:13,854 - INFO - Sucessfully processed ticker: AMZN with 217 records.
+2025-02-20 23:40:13,870 - INFO - Sucessfully processed ticker: TSLA with 217 records.
+2025-02-20 23:40:13,870 - INFO - Sucessfully processed ticker: GOOGL with 217 records.
+2025-02-20 23:52:32,120 - INFO - Logging is configured.
+2025-02-20 23:52:32,136 - INFO - Logging is now working in the raw_layer script.
+2025-02-20 23:52:36,570 - INFO - Sucessfully processed ticker: AAPL with 217 records.
+2025-02-20 23:52:36,570 - INFO - Sucessfully processed ticker: MSFT with 217 records.
+2025-02-20 23:52:36,570 - INFO - Sucessfully processed ticker: AMZN with 217 records.
+2025-02-20 23:52:36,570 - INFO - Sucessfully processed ticker: TSLA with 217 records.
+2025-02-20 23:52:36,570 - INFO - Sucessfully processed ticker: GOOGL with 217 records.
+2025-02-23 18:30:11,506 - INFO - Logging is configured.
+2025-02-23 18:30:11,506 - INFO - Logging is now working in the raw_layer script.
+2025-02-23 18:31:10,669 - INFO - Logging is configured.
+2025-02-23 18:31:10,670 - INFO - Logging is now working in the raw_layer script.
+2025-02-23 18:31:21,431 - INFO - Sucessfully processed ticker: AAPL with 214 records.
+2025-02-23 18:31:21,431 - INFO - Sucessfully processed ticker: MSFT with 214 records.
+2025-02-23 18:31:21,431 - INFO - Sucessfully processed ticker: AMZN with 214 records.
+2025-02-23 18:31:21,431 - INFO - Sucessfully processed ticker: TSLA with 214 records.
+2025-02-23 18:31:21,431 - INFO - Sucessfully processed ticker: GOOGL with 214 records.
+2025-02-23 18:42:33,898 - INFO - Logging is configured.
+2025-02-23 18:42:33,898 - INFO - Logging is now working in the raw_layer script.
+2025-02-23 18:42:35,595 - INFO - Sucessfully processed ticker: AAPL with 214 records.
+2025-02-23 18:42:35,595 - INFO - Sucessfully processed ticker: MSFT with 214 records.
+2025-02-23 18:42:35,595 - INFO - Sucessfully processed ticker: AMZN with 214 records.
+2025-02-23 18:42:35,595 - INFO - Sucessfully processed ticker: TSLA with 214 records.
+2025-02-23 18:42:35,595 - INFO - Sucessfully processed ticker: GOOGL with 214 records.
+2025-02-23 18:45:27,031 - INFO - Logging is configured.
+2025-02-23 18:45:27,032 - INFO - Logging is now working in the raw_layer script.
+2025-02-23 18:45:32,029 - INFO - Sucessfully processed ticker: AAPL with 214 records.
+2025-02-23 18:45:32,045 - INFO - Sucessfully processed ticker: MSFT with 214 records.
+2025-02-23 18:45:32,045 - INFO - Sucessfully processed ticker: AMZN with 214 records.
+2025-02-23 18:45:32,045 - INFO - Sucessfully processed ticker: TSLA with 214 records.
+2025-02-23 18:45:32,045 - INFO - Sucessfully processed ticker: GOOGL with 214 records.
+2025-02-23 18:50:18,806 - INFO - Logging is configured.
+2025-02-23 18:50:18,806 - INFO - Logging is now working in the raw_layer script.
+2025-02-23 18:50:22,604 - INFO - Sucessfully processed ticker: AAPL with 214 records.
+2025-02-23 18:50:22,604 - INFO - Sucessfully processed ticker: MSFT with 214 records.
+2025-02-23 18:50:22,604 - INFO - Sucessfully processed ticker: AMZN with 214 records.
+2025-02-23 18:50:22,604 - INFO - Sucessfully processed ticker: TSLA with 214 records.
+2025-02-23 18:50:22,604 - INFO - Sucessfully processed ticker: GOOGL with 214 records.
+2025-02-23 18:50:23,209 - INFO - NumExpr defaulting to 8 threads.
+2025-02-23 18:51:34,053 - INFO - Sucessfully processed ticker: GOOG with 214 records.
+2025-02-23 18:51:34,054 - INFO - Sucessfully processed ticker: BRK.B with 214 records.
+2025-02-23 18:51:34,054 - INFO - Sucessfully processed ticker: JNJ with 214 records.
+2025-02-23 18:51:34,055 - INFO - Sucessfully processed ticker: UNH with 214 records.
+2025-02-23 18:51:34,056 - INFO - Sucessfully processed ticker: NVDA with 214 records.
+2025-02-23 18:52:41,804 - INFO - Sucessfully processed ticker: META with 214 records.
+2025-02-23 18:52:41,804 - INFO - Sucessfully processed ticker: PG with 214 records.
+2025-02-23 18:52:41,819 - INFO - Sucessfully processed ticker: JPM with 214 records.
+2025-02-23 18:52:41,819 - INFO - Sucessfully processed ticker: XOM with 214 records.
+2025-02-23 18:52:41,822 - INFO - Sucessfully processed ticker: V with 214 records.
+2025-02-23 18:53:49,914 - INFO - Sucessfully processed ticker: HD with 214 records.
+2025-02-23 18:53:49,930 - INFO - Sucessfully processed ticker: CVX with 214 records.
+2025-02-23 18:53:49,930 - INFO - Sucessfully processed ticker: MA with 214 records.
+2025-02-23 18:53:49,930 - INFO - Sucessfully processed ticker: ABBV with 214 records.
+2025-02-23 18:53:49,934 - INFO - Sucessfully processed ticker: PFE with 214 records.
+2025-02-23 18:54:57,968 - INFO - Sucessfully processed ticker: BAC with 214 records.
+2025-02-23 18:54:57,968 - INFO - Sucessfully processed ticker: KO with 214 records.
+2025-02-23 18:54:57,973 - INFO - Sucessfully processed ticker: COST with 214 records.
+2025-02-23 18:54:57,974 - INFO - Sucessfully processed ticker: PEP with 214 records.
+2025-02-23 18:54:57,974 - INFO - Sucessfully processed ticker: AVGO with 214 records.
+2025-02-23 18:56:05,912 - INFO - Sucessfully processed ticker: LLY with 214 records.
+2025-02-23 18:56:05,912 - INFO - Sucessfully processed ticker: WMT with 214 records.
+2025-02-23 18:56:05,912 - INFO - Sucessfully processed ticker: CSCO with 214 records.
+2025-02-23 18:56:05,912 - INFO - Sucessfully processed ticker: MRK with 214 records.
+2025-02-23 18:56:05,912 - INFO - Sucessfully processed ticker: DIS with 214 records.
+2025-02-23 18:57:13,129 - INFO - Sucessfully processed ticker: VZ with 214 records.
+2025-02-23 18:57:13,129 - INFO - Sucessfully processed ticker: ABT with 214 records.
+2025-02-23 18:57:13,145 - INFO - Sucessfully processed ticker: TMO with 214 records.
+2025-02-23 18:57:13,145 - INFO - Sucessfully processed ticker: CMCSA with 214 records.
+2025-02-23 18:57:13,145 - INFO - Sucessfully processed ticker: ACN with 214 records.
+2025-02-23 18:58:21,234 - INFO - Sucessfully processed ticker: ADBE with 214 records.
+2025-02-23 18:58:21,234 - INFO - Sucessfully processed ticker: MCD with 214 records.
+2025-02-23 18:58:21,234 - INFO - Sucessfully processed ticker: INTC with 214 records.
+2025-02-23 18:58:21,234 - INFO - Sucessfully processed ticker: WFC with 214 records.
+2025-02-23 18:58:21,234 - INFO - Sucessfully processed ticker: CRM with 214 records.
+2025-02-23 18:59:29,334 - INFO - Sucessfully processed ticker: BMY with 214 records.
+2025-02-23 18:59:29,334 - INFO - Sucessfully processed ticker: DHR with 214 records.
+2025-02-23 18:59:29,349 - INFO - Sucessfully processed ticker: PM with 214 records.
+2025-02-23 18:59:29,349 - INFO - Sucessfully processed ticker: LIN with 214 records.
+2025-02-23 18:59:29,354 - INFO - Sucessfully processed ticker: TXN with 214 records.
+2025-02-23 19:00:37,865 - INFO - Sucessfully processed ticker: NKE with 214 records.
+2025-02-23 19:00:37,865 - INFO - Sucessfully processed ticker: QCOM with 214 records.
+2025-02-23 19:00:37,865 - INFO - Sucessfully processed ticker: UNP with 214 records.
+2025-02-23 19:00:37,865 - INFO - Sucessfully processed ticker: RTX with 214 records.
+2025-02-23 19:00:37,879 - INFO - Sucessfully processed ticker: NEE with 214 records.
+2025-02-23 19:12:17,082 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))': /v2/aggs/ticker/MDT/range/1/day/2023-01-01/2023-12-31
+2025-02-23 19:12:19,944 - INFO - Sucessfully processed ticker: MDT with 214 records.
+2025-02-23 19:12:19,945 - INFO - Sucessfully processed ticker: AMGN with 214 records.
+2025-02-23 19:12:19,946 - INFO - Sucessfully processed ticker: AMD with 214 records.
+2025-02-23 19:12:19,947 - INFO - Sucessfully processed ticker: T with 214 records.
+2025-02-23 19:12:19,948 - INFO - Sucessfully processed ticker: LOW with 214 records.
+2025-02-23 19:13:29,839 - INFO - Sucessfully processed ticker: UPS with 214 records.
+2025-02-23 19:13:29,839 - INFO - Sucessfully processed ticker: CVS with 214 records.
+2025-02-23 19:13:29,850 - INFO - Sucessfully processed ticker: SPGI with 214 records.
+2025-02-23 19:13:29,851 - INFO - Sucessfully processed ticker: HON with 214 records.
+2025-02-23 19:13:29,853 - INFO - Sucessfully processed ticker: PLD with 214 records.
+2025-02-23 19:14:38,156 - INFO - Sucessfully processed ticker: IBM with 214 records.
+2025-02-23 19:14:38,156 - INFO - Sucessfully processed ticker: ELV with 214 records.
+2025-02-23 19:14:38,173 - INFO - Sucessfully processed ticker: INTU with 214 records.
+2025-02-23 19:14:38,173 - INFO - Sucessfully processed ticker: COP with 214 records.
+2025-02-23 19:14:38,173 - INFO - Sucessfully processed ticker: ORCL with 214 records.
+2025-02-23 19:15:46,325 - INFO - Sucessfully processed ticker: MS with 214 records.
+2025-02-23 19:15:46,325 - INFO - Sucessfully processed ticker: AMT with 214 records.
+2025-02-23 19:15:46,325 - INFO - Sucessfully processed ticker: CAT with 214 records.
+2025-02-23 19:15:46,325 - INFO - Sucessfully processed ticker: TGT with 214 records.
+2025-02-23 19:15:46,325 - INFO - Sucessfully processed ticker: AXP with 214 records.
+2025-02-23 19:16:55,782 - INFO - Sucessfully processed ticker: LMT with 214 records.
+2025-02-23 19:16:55,782 - INFO - Sucessfully processed ticker: DE with 214 records.
+2025-02-23 19:16:55,782 - INFO - Sucessfully processed ticker: GS with 214 records.
+2025-02-23 19:16:55,782 - INFO - Sucessfully processed ticker: SCHW with 214 records.
+2025-02-23 19:16:55,782 - INFO - Sucessfully processed ticker: MO with 214 records.
+2025-02-23 19:18:14,139 - INFO - Sucessfully processed ticker: C with 214 records.
+2025-02-23 19:18:14,141 - INFO - Sucessfully processed ticker: PYPL with 214 records.
+2025-02-23 19:18:14,141 - INFO - Sucessfully processed ticker: AMAT with 214 records.
+2025-02-23 19:18:14,142 - INFO - Sucessfully processed ticker: ADP with 214 records.
+2025-02-23 19:18:14,143 - INFO - Sucessfully processed ticker: BLK with 214 records.
+2025-02-23 19:19:23,045 - INFO - Sucessfully processed ticker: BA with 214 records.
+2025-02-23 19:19:23,045 - INFO - Sucessfully processed ticker: NOW with 214 records.
+2025-02-23 19:19:23,045 - INFO - Sucessfully processed ticker: MDLZ with 214 records.
+2025-02-23 19:19:23,045 - INFO - Sucessfully processed ticker: BKNG with 214 records.
+2025-02-23 19:19:23,056 - INFO - Sucessfully processed ticker: GE with 214 records.
+2025-02-23 19:20:32,358 - INFO - Sucessfully processed ticker: NFLX with 214 records.
+2025-02-23 19:20:32,373 - INFO - Sucessfully processed ticker: ISRG with 214 records.
+2025-02-23 19:20:32,373 - INFO - Sucessfully processed ticker: CB with 214 records.
+2025-02-23 19:20:32,373 - INFO - Sucessfully processed ticker: SBUX with 214 records.
+2025-02-23 19:20:32,373 - INFO - Sucessfully processed ticker: DUK with 214 records.
+2025-02-23 19:21:41,638 - INFO - Sucessfully processed ticker: MMC with 214 records.
+2025-02-23 19:21:41,638 - INFO - Sucessfully processed ticker: ZTS with 214 records.
+2025-02-23 19:21:41,638 - INFO - Sucessfully processed ticker: SYK with 214 records.
+2025-02-23 19:21:41,638 - INFO - Sucessfully processed ticker: MMM with 214 records.
+2025-02-23 19:21:41,638 - INFO - Sucessfully processed ticker: CI with 214 records.
+2025-02-23 19:22:49,994 - INFO - Sucessfully processed ticker: CCI with 214 records.
+2025-02-23 19:22:49,994 - INFO - Sucessfully processed ticker: ADI with 214 records.
+2025-02-23 19:22:49,994 - INFO - Sucessfully processed ticker: SO with 214 records.
+2025-02-23 19:22:49,994 - INFO - Sucessfully processed ticker: GILD with 214 records.
+2025-02-23 19:22:49,994 - INFO - Sucessfully processed ticker: CME with 214 records.
+2025-02-23 19:38:00,200 - INFO - Closing down clientserver connection
+2025-02-23 20:37:35,806 - INFO - Logging is configured.
+2025-02-23 20:37:35,806 - INFO - Logging is now working in the raw_layer script.
+2025-02-23 20:38:01,737 - INFO - Sucessfully processed ticker: AAPL with 214 records.
+2025-02-23 20:38:01,737 - INFO - Sucessfully processed ticker: MSFT with 214 records.
+2025-02-23 20:38:01,737 - INFO - Sucessfully processed ticker: AMZN with 214 records.
+2025-02-23 20:38:01,737 - INFO - Sucessfully processed ticker: TSLA with 214 records.
+2025-02-23 20:38:01,737 - INFO - Sucessfully processed ticker: GOOGL with 214 records.
+2025-02-23 20:38:01,753 - INFO - Closing down clientserver connection
+2025-02-23 20:41:39,820 - INFO - Logging is configured.
+2025-02-23 20:41:39,821 - INFO - Logging is now working in the raw_layer script.
+2025-02-23 20:42:02,368 - INFO - Sucessfully processed ticker: AAPL with 214 records.
+2025-02-23 20:42:02,368 - INFO - Sucessfully processed ticker: MSFT with 214 records.
+2025-02-23 20:42:02,368 - INFO - Sucessfully processed ticker: AMZN with 214 records.
+2025-02-23 20:42:02,368 - INFO - Sucessfully processed ticker: TSLA with 214 records.
+2025-02-23 20:42:02,368 - INFO - Sucessfully processed ticker: GOOGL with 214 records.
+2025-02-23 20:42:02,383 - INFO - Closing down clientserver connection
+2025-02-23 20:44:01,862 - INFO - Logging is configured.
+2025-02-23 20:44:01,862 - INFO - Logging is now working in the raw_layer script.
+2025-02-23 20:44:12,132 - INFO - Closing down clientserver connection
+2025-02-23 20:45:00,863 - INFO - Logging is configured.
+2025-02-23 20:45:00,863 - INFO - Logging is now working in the raw_layer script.
+2025-02-23 20:45:15,918 - INFO - Sucessfully processed ticker: AAPL with 214 records.
+2025-02-23 20:45:15,918 - INFO - Sucessfully processed ticker: MSFT with 214 records.
+2025-02-23 20:45:16,586 - INFO - NumExpr defaulting to 8 threads.
+2025-02-23 20:46:25,176 - INFO - Closing down clientserver connection
+2025-02-23 20:53:52,949 - INFO - Logging is configured.
+2025-02-23 20:53:52,949 - INFO - Logging is now working in the raw_layer script.
+2025-02-23 20:54:07,194 - INFO - Sucessfully processed ticker: AAPL with 252 records.
+2025-02-23 20:54:07,194 - INFO - Sucessfully processed ticker: MSFT with 252 records.
+2025-02-23 20:54:07,694 - INFO - NumExpr defaulting to 8 threads.
+2025-02-23 20:55:15,755 - INFO - Closing down clientserver connection
+2025-02-23 20:56:22,687 - INFO - Logging is configured.
+2025-02-23 20:56:22,687 - INFO - Logging is now working in the raw_layer script.
+2025-02-23 20:56:36,494 - INFO - Closing down clientserver connection
+2025-02-23 20:59:00,695 - INFO - Logging is configured.
+2025-02-23 20:59:00,696 - INFO - Logging is now working in the raw_layer script.
+2025-02-23 20:59:14,153 - INFO - Sucessfully processed ticker: AAPL with 252 records.
+2025-02-23 20:59:14,153 - INFO - Sucessfully processed ticker: MSFT with 252 records.
+2025-02-23 20:59:14,680 - INFO - NumExpr defaulting to 8 threads.
+2025-02-23 21:00:19,112 - INFO - Closing down clientserver connection
+2025-02-23 21:00:33,648 - INFO - Logging is configured.
+2025-02-23 21:00:33,648 - INFO - Logging is now working in the raw_layer script.
+2025-02-23 21:00:47,594 - INFO - Sucessfully processed ticker: AAPL with 214 records.
+2025-02-23 21:00:47,594 - INFO - Sucessfully processed ticker: MSFT with 214 records.
+2025-02-23 21:00:47,876 - INFO - NumExpr defaulting to 8 threads.
+2025-02-23 21:01:55,570 - INFO - Closing down clientserver connection
+2025-02-23 21:04:19,218 - INFO - Logging is configured.
+2025-02-23 21:04:19,235 - INFO - Logging is now working in the raw_layer script.
+2025-02-23 21:04:33,494 - INFO - Sucessfully processed ticker: AAPL with 26 records.
+2025-02-23 21:04:33,494 - INFO - Sucessfully processed ticker: MSFT with 26 records.
+2025-02-23 21:04:34,040 - INFO - NumExpr defaulting to 8 threads.
+2025-02-23 21:05:41,618 - INFO - Closing down clientserver connection
+2025-02-23 21:19:03,082 - INFO - Logging is configured.
+2025-02-23 21:19:03,082 - INFO - Logging is now working in the raw_layer script.
+2025-02-23 21:19:17,717 - INFO - Sucessfully processed ticker: AAPL with 252 records.
+2025-02-23 21:19:17,718 - INFO - Sucessfully processed ticker: MSFT with 252 records.
+2025-02-23 21:19:18,240 - INFO - NumExpr defaulting to 8 threads.
+2025-02-23 21:19:50,682 - INFO - Closing down clientserver connection
+2025-02-23 21:20:37,883 - INFO - Logging is configured.
+2025-02-23 21:20:37,883 - INFO - Logging is now working in the raw_layer script.
+2025-02-23 21:20:53,467 - INFO - Sucessfully processed ticker: AAPL with 61 records.
+2025-02-23 21:20:53,467 - INFO - Sucessfully processed ticker: MSFT with 61 records.
+2025-02-23 21:20:53,468 - INFO - Sucessfully processed ticker: AMZN with 61 records.
+2025-02-23 21:20:53,468 - INFO - Sucessfully processed ticker: TSLA with 61 records.
+2025-02-23 21:20:53,468 - INFO - Sucessfully processed ticker: GOOGL with 61 records.
+2025-02-23 21:20:53,986 - INFO - NumExpr defaulting to 8 threads.
+2025-02-23 21:21:47,228 - INFO - Closing down clientserver connection
+2025-02-23 21:21:57,163 - INFO - Logging is configured.
+2025-02-23 21:21:57,163 - INFO - Logging is now working in the raw_layer script.
+2025-02-23 21:22:11,365 - INFO - Sucessfully processed ticker: AAPL with 252 records.
+2025-02-23 21:22:11,365 - INFO - Sucessfully processed ticker: MSFT with 252 records.
+2025-02-23 21:22:11,365 - INFO - Sucessfully processed ticker: AMZN with 252 records.
+2025-02-23 21:22:11,365 - INFO - Sucessfully processed ticker: TSLA with 252 records.
+2025-02-23 21:22:11,662 - INFO - NumExpr defaulting to 8 threads.
+2025-02-23 21:22:19,669 - INFO - Sucessfully processed ticker: GOOGL with 252 records.
+2025-02-23 21:23:28,059 - INFO - Sucessfully processed ticker: GOOG with 252 records.
+2025-02-23 21:23:28,060 - INFO - Sucessfully processed ticker: BRK.B with 252 records.
+2025-02-23 21:23:28,061 - INFO - Sucessfully processed ticker: JNJ with 252 records.
+2025-02-23 21:23:35,415 - INFO - Sucessfully processed ticker: UNH with 252 records.
+2025-02-23 21:23:35,415 - INFO - Sucessfully processed ticker: NVDA with 252 records.
+2025-02-23 21:24:48,775 - INFO - Sucessfully processed ticker: META with 252 records.
+2025-02-23 21:24:48,775 - INFO - Sucessfully processed ticker: PG with 252 records.
+2025-02-23 21:24:56,531 - INFO - Sucessfully processed ticker: JPM with 252 records.
+2025-02-23 21:24:56,531 - INFO - Sucessfully processed ticker: XOM with 252 records.
+2025-02-23 21:24:56,531 - INFO - Sucessfully processed ticker: V with 252 records.
+2025-02-23 21:26:52,834 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))': /v2/aggs/ticker/HD/range/1/day/2024-01-01/2024-12-31
+2025-02-23 21:26:53,959 - INFO - Sucessfully processed ticker: HD with 252 records.
+2025-02-23 21:27:03,485 - INFO - Sucessfully processed ticker: CVX with 252 records.
+2025-02-23 21:27:03,485 - INFO - Sucessfully processed ticker: MA with 252 records.
+2025-02-23 21:27:03,485 - INFO - Sucessfully processed ticker: ABBV with 252 records.
+2025-02-23 21:27:03,485 - INFO - Sucessfully processed ticker: PFE with 252 records.
+2025-02-23 21:28:26,687 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))': /v2/aggs/ticker/BAC/range/1/day/2024-01-01/2024-12-31
+2025-02-23 21:28:31,188 - INFO - Sucessfully processed ticker: BAC with 252 records.
+2025-02-23 21:28:31,188 - INFO - Sucessfully processed ticker: KO with 252 records.
+2025-02-23 21:28:31,188 - INFO - Sucessfully processed ticker: COST with 252 records.
+2025-02-23 21:28:31,188 - INFO - Sucessfully processed ticker: PEP with 252 records.
+2025-02-23 21:28:40,303 - INFO - Sucessfully processed ticker: AVGO with 252 records.
+2025-02-23 21:29:56,432 - INFO - Sucessfully processed ticker: LLY with 252 records.
+2025-02-23 21:29:56,432 - INFO - Sucessfully processed ticker: WMT with 252 records.
+2025-02-23 21:29:56,432 - INFO - Sucessfully processed ticker: CSCO with 252 records.
+2025-02-23 21:30:04,609 - INFO - Sucessfully processed ticker: MRK with 252 records.
+2025-02-23 21:30:04,609 - INFO - Sucessfully processed ticker: DIS with 252 records.
+2025-02-23 21:31:15,064 - INFO - Sucessfully processed ticker: VZ with 252 records.
+2025-02-23 21:31:15,064 - INFO - Sucessfully processed ticker: ABT with 252 records.
+2025-02-23 21:31:22,739 - INFO - Sucessfully processed ticker: TMO with 252 records.
+2025-02-23 21:31:22,739 - INFO - Sucessfully processed ticker: CMCSA with 252 records.
+2025-02-23 21:31:22,739 - INFO - Sucessfully processed ticker: ACN with 252 records.
+2025-02-23 21:32:32,132 - INFO - Sucessfully processed ticker: ADBE with 252 records.
+2025-02-23 21:32:39,060 - INFO - Sucessfully processed ticker: MCD with 252 records.
+2025-02-23 21:32:39,060 - INFO - Sucessfully processed ticker: INTC with 252 records.
+2025-02-23 21:32:39,060 - INFO - Sucessfully processed ticker: WFC with 252 records.
+2025-02-23 21:32:39,060 - INFO - Sucessfully processed ticker: CRM with 252 records.
+2025-02-23 21:33:49,338 - INFO - Sucessfully processed ticker: BMY with 252 records.
+2025-02-23 21:33:49,338 - INFO - Sucessfully processed ticker: DHR with 252 records.
+2025-02-23 21:33:49,338 - INFO - Sucessfully processed ticker: PM with 252 records.
+2025-02-23 21:33:49,338 - INFO - Sucessfully processed ticker: LIN with 252 records.
+2025-02-23 21:33:56,437 - INFO - Sucessfully processed ticker: TXN with 252 records.
+2025-02-23 21:35:04,727 - INFO - Sucessfully processed ticker: NKE with 252 records.
+2025-02-23 21:35:04,743 - INFO - Sucessfully processed ticker: QCOM with 252 records.
+2025-02-23 21:35:04,743 - INFO - Sucessfully processed ticker: UNP with 252 records.
+2025-02-23 21:35:11,635 - INFO - Sucessfully processed ticker: RTX with 252 records.
+2025-02-23 21:35:11,635 - INFO - Sucessfully processed ticker: NEE with 252 records.
+2025-02-23 21:36:21,374 - INFO - Sucessfully processed ticker: MDT with 252 records.
+2025-02-23 21:36:21,374 - INFO - Sucessfully processed ticker: AMGN with 252 records.
+2025-02-23 21:36:29,159 - INFO - Sucessfully processed ticker: AMD with 252 records.
+2025-02-23 21:36:29,159 - INFO - Sucessfully processed ticker: T with 252 records.
+2025-02-23 21:36:29,159 - INFO - Sucessfully processed ticker: LOW with 252 records.
+2025-02-23 21:37:38,756 - INFO - Sucessfully processed ticker: UPS with 252 records.
+2025-02-23 21:37:45,431 - INFO - Sucessfully processed ticker: CVS with 252 records.
+2025-02-23 21:37:45,431 - INFO - Sucessfully processed ticker: SPGI with 252 records.
+2025-02-23 21:37:45,431 - INFO - Sucessfully processed ticker: HON with 252 records.
+2025-02-23 21:37:45,431 - INFO - Sucessfully processed ticker: PLD with 252 records.
+2025-02-23 21:38:53,259 - INFO - Sucessfully processed ticker: IBM with 252 records.
+2025-02-23 21:38:53,259 - INFO - Sucessfully processed ticker: ELV with 252 records.
+2025-02-23 21:38:53,259 - INFO - Sucessfully processed ticker: INTU with 252 records.
+2025-02-23 21:38:53,259 - INFO - Sucessfully processed ticker: COP with 252 records.
+2025-02-23 21:39:00,574 - INFO - Sucessfully processed ticker: ORCL with 252 records.
+2025-02-23 21:40:08,511 - INFO - Sucessfully processed ticker: MS with 252 records.
+2025-02-23 21:40:08,511 - INFO - Sucessfully processed ticker: AMT with 252 records.
+2025-02-23 21:40:08,511 - INFO - Sucessfully processed ticker: CAT with 252 records.
+2025-02-23 21:40:15,530 - INFO - Sucessfully processed ticker: TGT with 252 records.
+2025-02-23 21:40:15,530 - INFO - Sucessfully processed ticker: AXP with 252 records.
+2025-02-23 21:41:24,900 - INFO - Sucessfully processed ticker: LMT with 252 records.
+2025-02-23 21:41:24,900 - INFO - Sucessfully processed ticker: DE with 252 records.
+2025-02-23 21:41:31,936 - INFO - Sucessfully processed ticker: GS with 252 records.
+2025-02-23 21:41:31,936 - INFO - Sucessfully processed ticker: SCHW with 252 records.
+2025-02-23 21:41:31,936 - INFO - Sucessfully processed ticker: MO with 252 records.
+2025-02-23 21:42:41,136 - INFO - Sucessfully processed ticker: C with 252 records.
+2025-02-23 21:42:48,299 - INFO - Sucessfully processed ticker: PYPL with 252 records.
+2025-02-23 21:42:48,299 - INFO - Sucessfully processed ticker: AMAT with 252 records.
+2025-02-23 21:42:48,299 - INFO - Sucessfully processed ticker: ADP with 252 records.
+2025-02-23 21:42:48,299 - INFO - Sucessfully processed ticker: BLK with 252 records.
+2025-02-23 21:44:08,700 - INFO - Sucessfully processed ticker: BA with 252 records.
+2025-02-23 21:44:08,700 - INFO - Sucessfully processed ticker: NOW with 252 records.
+2025-02-23 21:44:08,700 - INFO - Sucessfully processed ticker: MDLZ with 252 records.
+2025-02-23 21:44:08,716 - INFO - Sucessfully processed ticker: BKNG with 252 records.
+2025-02-23 21:44:15,596 - INFO - Sucessfully processed ticker: GE with 252 records.
+2025-02-23 21:45:24,021 - INFO - Sucessfully processed ticker: NFLX with 252 records.
+2025-02-23 21:45:24,021 - INFO - Sucessfully processed ticker: ISRG with 252 records.
+2025-02-23 21:45:24,036 - INFO - Sucessfully processed ticker: CB with 252 records.
+2025-02-23 21:45:31,664 - INFO - Sucessfully processed ticker: SBUX with 252 records.
+2025-02-23 21:45:31,664 - INFO - Sucessfully processed ticker: DUK with 252 records.
+2025-02-23 21:46:44,349 - INFO - Sucessfully processed ticker: MMC with 252 records.
+2025-02-23 21:46:44,365 - INFO - Sucessfully processed ticker: ZTS with 252 records.
+2025-02-23 21:46:51,556 - INFO - Sucessfully processed ticker: SYK with 252 records.
+2025-02-23 21:46:51,556 - INFO - Sucessfully processed ticker: MMM with 252 records.
+2025-02-23 21:46:51,572 - INFO - Sucessfully processed ticker: CI with 252 records.
+2025-02-23 21:48:07,086 - INFO - Sucessfully processed ticker: CCI with 252 records.
+2025-02-23 21:48:13,874 - INFO - Sucessfully processed ticker: ADI with 252 records.
+2025-02-23 21:48:13,874 - INFO - Sucessfully processed ticker: SO with 252 records.
+2025-02-23 21:48:13,874 - INFO - Sucessfully processed ticker: GILD with 252 records.
+2025-02-23 21:48:13,874 - INFO - Sucessfully processed ticker: CME with 252 records.
+2025-02-23 21:49:21,472 - INFO - Closing down clientserver connection
