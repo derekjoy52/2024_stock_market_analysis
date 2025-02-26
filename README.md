@@ -38,6 +38,11 @@ To improve reliability, the pipeline includes:
 - To prevent **out-of-memory errors**, the pipeline writes accumulated data to **Parquet files** once a predefined list size is reached. This approach ensures efficient memory usage by clearing the list after each write operation.  
 - A clearly defined **schema** enhances data integrity and minimizes ambiguity during data processing.
 
+### 4. **Efficient Data Handling and Memory Management**
+
+- Warehousing folder structure.
+
+
 ---
 
 By incorporating these strategies, the pipeline ensures **robust error handling**, **scalability for large datasets**, and **extensibility** for future enhancements or changes.
